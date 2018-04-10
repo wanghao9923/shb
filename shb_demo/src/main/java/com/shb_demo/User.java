@@ -8,7 +8,17 @@ public class User {
 	
 	private Integer sex;
 	
+	private Integer sort;
 	
+	
+	public Integer getSort() {
+		return sort;
+	}
+
+	public void setSort(Integer sort) {
+		this.sort = sort;
+	}
+
 	public Integer getSex() {
 		return sex;
 	}
