@@ -8,7 +8,7 @@ public class User {
 	
 	private Integer sex;
 	
-	private Integer sort;
+	private Integer sort; // 排序
 	
 	
 	public Integer getSort() {
