@@ -11,6 +11,8 @@ public class User {
 	private Integer sort;
 	
 	
+	
+	
 	public Integer getSort() {
 		return sort;
 	}
